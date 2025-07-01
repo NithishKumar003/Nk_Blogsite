@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'BlogNK$blogdb',
         'USER': 'BlogNK',
-        'PASSWORD': '12345678',
+        'PASSWORD': 'NkMysql2024!',
         'HOST': 'BlogNK.mysql.pythonanywhere-services.com',
         'PORT': '3306'
     }
