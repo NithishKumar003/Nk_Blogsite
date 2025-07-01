@@ -131,6 +131,8 @@ STATIC_URL = 'static/'
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles') 
 
+ALLOWED_HOSTS = ["BlogNk.pythonanywhere.com"]
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
