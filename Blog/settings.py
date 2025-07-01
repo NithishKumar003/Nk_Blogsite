@@ -82,9 +82,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'blogdb',
-        'USER': 'root',
-        'PASSWORD': 'Nk@001',
-        'HOST': 'localhost',
+        'USER': 'BlogNK',
+        'PASSWORD': 'Nithish001',
+        'HOST': 'BlogNK.mysql.pythonanywhere-services.com',
         'PORT': '3306'
     }
 }
